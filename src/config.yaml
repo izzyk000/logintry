@@ -1,0 +1,19 @@
+credentials:
+  usernames:
+    david:
+      email: david@gmail.com
+      name: John Smith
+      logged_in: false
+      password: $2b$12$jNhX8HtviURyonKq57gRLeiDdee/5Xy2PxStxDq4lTUPF0g3.ZZsG
+    jones:
+      email: jones@gmail.com
+      name: John Smith
+      logged_in: false
+      password: $2b$12$wOxG9qRitpQScVt9q2TKmOWLEwrqebBCyxdKQPnw05avBEkOQM6Um
+cookie:
+  name: co
+  key: secret
+  expiry_days: 30
+preauthorized:
+  emails:
+    - preauthorized@example.com
